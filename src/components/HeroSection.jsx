@@ -26,11 +26,10 @@ const HeroSection = () => {
             At <span className="text-blue-500 underline">Aseal Solutions</span>,
             we commit ourselves to be the solution to any and every medical
             billing problem. Whether it is to improve productivity or increase
-            revenue, we offer outstanding services to our clients in Florida,
-            Texas, USA. With our stronghold in this industry, we aim to
-            positively contribute towards a brighter future, establishing
-            ourselves as the finest medical billing service providers across the
-            globe.
+            revenue, we offer outstanding services to our clients in Mizoram.
+            With our stronghold in this industry, we aim to positively
+            contribute towards a brighter future, establishing ourselves as the
+            finest medical billing service providers across the globe.
           </p>
         </div>
 

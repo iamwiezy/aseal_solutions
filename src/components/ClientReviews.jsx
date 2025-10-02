@@ -5,20 +5,20 @@ import { motion, AnimatePresence } from "framer-motion";
 const testimonials = [
   {
     text: "It's a super product with professional support team. I can't wait to see the futur features.",
-    name: "Emily Peterson",
-    job: "CEO",
+    name: "Ashok Kumar",
+    job: "Manager",
     avatar: "https://randomuser.me/api/portraits/women/44.jpg",
   },
   {
     text: "We've been looking for a product since the creation of our business.",
-    name: "Adrien Jacob",
-    job: "Head of Sales",
+    name: "Jack Dawson",
+    job: "Shop Keeper",
     avatar: "https://randomuser.me/api/portraits/men/45.jpg",
   },
   {
     text: "The best for exporting. Setting the right results and for free.",
-    name: "Aliska Valenta",
-    job: "Designer",
+    name: "Cristiano Ronaldo",
+    job: "Factory Manager",
     avatar: "https://randomuser.me/api/portraits/women/46.jpg",
   },
 ];
